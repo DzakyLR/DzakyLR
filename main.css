@@ -1,0 +1,17 @@
+body {
+	
+	background-image: "flat-design.jpg";
+
+	font-family: sans-serif;
+}
+a {
+	color: light blue;
+}
+
+p {
+	background: 
+	pink;
+	color: black;
+	padding: 10 px;
+}
+
